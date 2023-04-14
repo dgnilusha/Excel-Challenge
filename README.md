@@ -1,2 +1,2 @@
 # Excel-Challenge
-This is my Weekly challange 
+This is my Weekly challenges 
